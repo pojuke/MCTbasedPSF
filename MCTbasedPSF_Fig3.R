@@ -3,7 +3,7 @@
 #### Ke & Wan (accepted July 2019) Ecological Monographs
 ####
 #### This R script creates Figure 3 in the main text
-#### Figure 3: Examples of how plant???soil microbe interactions and plant???plant competition together determine competition outcome
+#### Figure 3: Examples of how plant-soil microbe interactions and plant-plant competition together determine competition outcome
 #################################################################################
 
 
